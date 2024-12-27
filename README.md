@@ -1,1 +1,2 @@
-# gdsc_study_seesion_g_ is my repository for GDSC study session task 
+# Flutter_Tasks
+This repository have tasks that I have done while I was learning flutter in GDSC( Google Developers Student Club).
